@@ -1,10 +1,12 @@
 .audio{
     background-color: cadetblue;
 }
+.video{
+    background-color: rgb(28, 107, 83)
+}
 h1{
     background-image: linear-gradient(45deg, rgb(131, 58, 58), white);
     width: 200px;
-}
 }
 h3{
     background-image: linear-gradient(45deg, lightgray, white);
